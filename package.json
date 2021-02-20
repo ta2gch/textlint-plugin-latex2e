@@ -30,7 +30,7 @@
   "dependencies": {
     "@textlint/ast-node-types": "^4.3.4",
     "fp-ts": "^2.8.3",
-    "latex-utensils": "^3.0.0"
+    "latex-utensils": "^4.0.2"
   },
   "devDependencies": {
     "@textlint/ast-tester": "^2.2.4",
